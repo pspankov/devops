@@ -22,7 +22,7 @@ spec:
             - containerPort: 80
           env:
             - name: PMA_ARBITRARY
-              value: 1
+              value: "1"
           #   - name: PMA_HOST
           #     value: mysql-service
           #   - name: PMA_PORT

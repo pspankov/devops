@@ -1,5 +1,5 @@
 resources:
-  - pvc.yaml
+  - local-storage.yaml
   - secret.yaml
   - deployment.yaml
   - service.yaml
